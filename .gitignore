@@ -1,0 +1,13 @@
+# Folder berat dan sistem
+node_modules/
+android/
+
+# File pengaturan lokal VS Code (biar nggak bentrok kalau dibuka di laptop lain)
+.vscode/
+
+# File sampah bawaan sistem operasi (Windows / Mac)
+Thumbs.db
+.DS_Store
+
+# File konfigurasi environment (kalau nanti kamu pakai file rahasia)
+.env
